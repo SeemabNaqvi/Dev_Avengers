@@ -62,7 +62,7 @@ body {
     height: 100%; /* Ensure the div takes the full height */
     width: 45%; /* Reduced width */
     background-color: maroon; /* Maroon color */
-    background-image: url("https://cdn.modesens.com/static/img/20240123topbanner_gif_en.gif"); /* Ensure this path is correct */
+    background-image: url("20240123topbanner_gif_en.gif"); /* Ensure this path is correct */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
